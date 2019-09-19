@@ -1,0 +1,11 @@
+{
+  "name": "wbcapp",
+  "version": "1.0.0",
+  "description": "Aplicacion web de directorio de boxeadores amateurs de la WBC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
